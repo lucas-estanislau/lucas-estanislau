@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <div align="center">
-  <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=lucas-estanislau&color=blue" alt="Profile views" />
 </div>
 
