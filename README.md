@@ -1,6 +1,6 @@
 ## Lucas Estanislau 👋
 
-- 🎨 Graphic Designer transitioning into Tech
+- 🎨 I'm a Graphic Designer transitioning into Tech
 - 🌱 Currently learning **UI/UX Design, Front-End Development and React**
 - 💻 Exploring **HTML, CSS, JavaScript, React and Figma**
 - 🚀 Passionate about creating digital experiences
@@ -10,12 +10,12 @@
 <div align="center">
   <h2>Where to find me?</h2>
 
-  <a href="mailto:lucassestanislau@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
   <a href="https://www.linkedin.com/in/lucassestanislau/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:lucassestanislau@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/lucassestanislau/" target="_blank">
